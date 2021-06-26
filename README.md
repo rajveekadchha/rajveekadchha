@@ -7,5 +7,5 @@
 - 🌱 I’m currently learning React JS
 - 💬 Ask me about anything buggy
 - 📫 Reach me at rajvee.k1@ahduni.edu.in
-- 😄 [My Portfolio Page](https://rajveekadchha.github.io/)
+- 😄 [My Portfolio Page](https://rajvee.myportfolio.com/)
 
