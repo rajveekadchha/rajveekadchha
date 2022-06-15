@@ -6,6 +6,6 @@
 - 🔭 I’m currently working on Something Interesting !
 - 🌱 I’m currently learning React JS
 - 💬 Ask me about anything buggy
-- 📫 Reach me at rajvee.k1@ahduni.edu.in
+- 📫 Reach me at rajveedkadchha@gmail.com
 - 😄 [My Portfolio Page](https://rajvee.myportfolio.com/)
 
