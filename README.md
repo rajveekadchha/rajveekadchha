@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajveekadchha&label=Profile%20views&color=0e75b6&style=flat" alt="rajveekadchha" /> </p>
 
-- 🤝 I’m looking for job as **Frontend Developer**
+- 🤝 I’m looking for job as **Frontend Developer** or **Shopify Developer**
 
 - 👨‍💻 All of my projects are available at [https://rajveekadchha.github.io/](https://rajveekadchha.github.io/)
 
