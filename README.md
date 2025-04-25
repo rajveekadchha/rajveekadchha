@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://rajveekadchha.github.io/](https://rajveekadchha.github.io/)
 
-- 📝 I regularly share my food experiences at [https://www.instagram.com/chaotic_yet_exotic?igsh=ZGFhYmR6N2l6YzZz](https://www.instagram.com/chaotic_yet_exotic?igsh=ZGFhYmR6N2l6YzZz)
-
 - 📫 How to reach me **rajveedkadchha@gmail.com**
 
 - ⚡ Fun fact **I am Foody**
